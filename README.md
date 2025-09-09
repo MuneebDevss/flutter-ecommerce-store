@@ -66,5 +66,5 @@ This project follows **Clean Architecture** principles:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/MuneebDevss/Flutter-EcommerceApp.git
+git clone https://github.com/MuneebDevss/flutter-ecommerce-store.git
 cd Flutter-EcommerceApp
